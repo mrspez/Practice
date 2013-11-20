@@ -1,0 +1,39 @@
+div {
+
+}
+
+#bios {
+    border:  1px solid gray;
+}
+
+footer{
+    background-color: #ffd800;
+}
+
+img{
+    height: 100px;
+    width: auto;
+    border: none;
+   
+}
+
+header nav{
+    float: right;
+    display: block;
+    text-decoration: none;
+    width: 90%;
+    padding: 20px 0 0 0;
+}
+
+header nav li{
+    display: block;
+    float: left;
+    text-decoration: none;
+    padding-right: 25px;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+header nav li a{
+    text-decoration: none;
+}
